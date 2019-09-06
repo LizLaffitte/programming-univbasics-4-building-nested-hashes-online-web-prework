@@ -30,7 +30,7 @@ def monopoly_with_third_tier
           :one_piece_owned => 25,
           :month => 1,
           :help => 1,
-          :whatever =>
+          :whatever =>1
         }
       } 
   }
